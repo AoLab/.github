@@ -1,4 +1,5 @@
 # Branding
 ## Introduction
-Early days of IoT in Iran built this unique labratory in Amirkabir University of Technology.
-Because of many stupid works it misses its way to AIoTRC but we want to re-brand it again.
+Early days of IoT in Iran, we built this unique laboratory at the Amirkabir University of Technology.
+This laboratory provides hands-on experience for many talented students who apply abord now.
+We want to have this laboratory always in our minds and heart.
