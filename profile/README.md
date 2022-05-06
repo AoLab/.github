@@ -1,2 +1,2 @@
 # AoLab
-### Amirkabir IoT Labratory
+#### Amirkabir IoT Laboratory
